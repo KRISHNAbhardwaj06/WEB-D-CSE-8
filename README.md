@@ -1,2 +1,2 @@
 # WEB-D-CSE-8
-HTML And Css
+HTML And CSS
